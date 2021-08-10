@@ -1,8 +1,11 @@
-# My Book
+# Cryosphere Visualization and Analysis
 
-This cookiecutter creates a simple boilerplate for a Jupyter Book.
+This Repo hosts development for an interactive Jupyter Book that provides introductory analysis to Cryospheric Data
 
-## Usage
+## TODO: 
+
+1. Finish skeleton setup
+2. Host on Github Pages
 
 ### Building the book
 
