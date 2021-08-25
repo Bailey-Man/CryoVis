@@ -1,11 +1,10 @@
 # Cryosphere Visualization and Analysis
-
-This Repo hosts development for an interactive Jupyter Book that provides introductory analysis to Cryospheric Data
-
-## TODO: 
+## TODO 8/28
 
 1. Finish skeleton setup
-2. Host on Github Pages
+2. Host JB on Github Pages
+3. Upload data
+4. Create Notebooks
 
 ### Building the book
 
